@@ -1,4 +1,19 @@
-## Hello, my name is JESUS MARTINEZ
-[![Jesús M. Martínez LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesus-m-martinez619/)
-## Certificates
-[![Fortinet Certification](https://img.shields.io/badge/Fortinet-Certified%20Fundamentals-orange?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/d86f3553-3b39-4b88-9f34-9a9bcab43f48)
+<h1>Hi, I'm Jesus, an <a href="https://www.linkedin.com/in/jesus-m-martinez619">Aspiring Cybersecurity Professional, student :computer: <h1>
+
+  
+Information technology projects
+
+  
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jesus-m-martinez619/
