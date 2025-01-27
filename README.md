@@ -11,6 +11,9 @@ Information technology projects
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JesusMartinez619/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JesusMartinez619/azure-network-protocols)
+- <b>Cisco Packet Tracer</b>
+  - [Router Configuration in Cisco](https://github.com/JesusMartinez619/Router-Configuration-Cisco)
+
 
 <h2>🤳Connect with me:</h2>
 
