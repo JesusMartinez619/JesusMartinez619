@@ -14,6 +14,10 @@ Information technology projects
 - <b>Cisco Packet Tracer</b>
   - [Router Configuration in Cisco](https://github.com/JesusMartinez619/Router-Configuration-Cisco)
 
+<b>Building a PC</b>
+  - [Building a PC](https://github.com/JesusMartinez619/Building-PC)
+
+
 
 <h2>🤳Connect with me:</h2>
 
